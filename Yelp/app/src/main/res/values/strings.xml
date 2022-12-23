@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Yelp</string>
+    <string name="title_activity_main">Home</string>
+    <string name="title_activity_business_details">Details</string>
+    <string name="dot">•</string>
+    <string name="business_search">Business Search</string>
+    <string name="results">Results</string>
+    <string name="keyword">KeyWord <font color='red'>*</font></string>
+    <string name="distance">Distance</string>
+    <string name="category">Category <font color='red'>*</font></string>
+    <string name="location">Location <font color='red'>*</font></string>
+    <string name="auto_detect_location">Auto-detect my location</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="required">This field is required</string>
+    <string name="dis_err">Distance should be less than 40000 meters</string>
+    <string name="loc_err">Location should not be empty</string>
+    <string name="reserve">Reserve Now</string>
+    <string name="link"><u>Business Link</u></string>
+
+    <string-array name="categories">
+        <item>default</item>
+        <item>Arts &amp; Entertainment</item>
+        <item>Health &amp; Medical</item>
+        <item>Hotels &amp; Travel</item>
+        <item>Food</item>
+        <item>Professional Services</item>
+    </string-array>
+</resources>

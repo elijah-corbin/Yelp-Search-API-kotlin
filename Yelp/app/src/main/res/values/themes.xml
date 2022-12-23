@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Yelp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+        <item name="colorOnPrimary">@color/gray_extra_light</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/red_regular</item>
+        <item name="colorSecondaryVariant">@color/black_extra_light</item>
+        <item name="colorOnSecondary">@color/black_dark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Yelp.NoActionBar" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+        <item name="colorOnPrimary">@color/gray_extra_light</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/red_regular</item>
+        <item name="colorSecondaryVariant">@color/black_extra_light</item>
+        <item name="colorOnSecondary">@color/black_dark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
